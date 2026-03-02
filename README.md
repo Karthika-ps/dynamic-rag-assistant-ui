@@ -1,7 +1,9 @@
 # Domain-Adaptive Retrieval-Augmented Generation (RAG) System
 
 An intent-aware Retrieval-Augmented Generation (RAG) system with live PDF upload and structured summarization, built using Streamlit and FAISS.
-
+```text
+🔗 Live Demo: https://dynamic-rag-assistant-ui-nobodiez.streamlit.app/
+```
 ---
 
 ## 🚀 Project Overview
@@ -90,4 +92,5 @@ OPENAI_API_KEY=your_key_here
 Designed for deployment via:
 
  - Streamlit Community Cloud
+
 
