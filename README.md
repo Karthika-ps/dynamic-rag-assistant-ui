@@ -53,7 +53,7 @@ Generates summaries structured into:
 ---
 
 ## 🏗 Architecture
-
+```text
 User Upload  
 → Temporary File Save
 → PDF Chunking
@@ -64,7 +64,7 @@ User Upload
 → Intent Detection
 → Prompt Construction
 → LLM Response 
-
+```
 ---
 🛡 Guardrails
 
@@ -90,3 +90,4 @@ OPENAI_API_KEY=your_key_here
 Designed for deployment via:
 
  - Streamlit Community Cloud
+
